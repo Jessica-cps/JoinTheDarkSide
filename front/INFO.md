@@ -1,13 +1,15 @@
-### Name
+### Jéssica Aline Campos
 
-e-mail: your@email.com
+e-mail: jessica.aline0504@gmail.com
 
- - github: 
- - bitbucket: 
- - codepen: 
- - behance:
- - include any other relevant info here
+ - github: https://github.com/Jessica-cps/
+ - bitbucket: https://bitbucket.org/jeskcps/
+ - codepen: http://codepen.io/Jessica-cps/
+ - behance: https://www.behance.net/jessicacps
+ - skype: jessica_cps
+ - tel: (11) 98510-8676
 
 Tasks
 
- - Task 1 <folder_name>
+ - Task 1 <fizzbuzz>
+ - Task 2 <fancybox>
