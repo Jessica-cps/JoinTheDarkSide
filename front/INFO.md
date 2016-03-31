@@ -11,5 +11,5 @@ e-mail: jessica.aline0504@gmail.com
 
 Tasks
 
- - Task 1 <fizzbuzz>
- - Task 2 <fancybox>
+ - Task 1 [fizzbuzz] (fizzbuzz)
+ - Task 2 [fancybox] (fancybox)
