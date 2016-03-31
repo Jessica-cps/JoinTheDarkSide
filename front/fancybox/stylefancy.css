@@ -1,7 +1,20 @@
 .wrapper {
   padding: 0 2em;
   text-align:center;
-  font-family: 'Raleway', Arial, sans-serif;;
+  font-family: 'Raleway', Arial, sans-serif;
+}
+
+.container-gallery{
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .wrapper h1{
@@ -13,7 +26,7 @@
 
 .item-gallery{
   display: inline-block;
-  margin: 0.6em;
+  margin: 0.6em; 
 }
 
 .lightbox:before{
@@ -22,7 +35,7 @@
     display: block;
     color: #fff;
     left: 42%;
-    margin-top: 4%;
+    margin-top: 2%;
     font-size: 2em;
     font-weight: 900;
 }
