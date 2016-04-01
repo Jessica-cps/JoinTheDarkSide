@@ -12,4 +12,4 @@ e-mail: jessica.aline0504@gmail.com
 Tasks
 
  - Task 1 [fizzbuzz] (fizzbuzz)
- - Task 2 [fancybox] (fancybox)
+ - Task 2 [fancybox e galeria de fotos] (fancybox-galeria)
